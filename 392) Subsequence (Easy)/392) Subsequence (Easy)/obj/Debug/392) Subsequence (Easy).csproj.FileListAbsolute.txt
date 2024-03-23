@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\bin\Debug\392) Subsequence (Easy).exe.config
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\bin\Debug\392) Subsequence (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\bin\Debug\392) Subsequence (Easy).pdb
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\obj\Debug\392) Subsequence (Easy).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\obj\Debug\392) Subsequence (Easy).csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\obj\Debug\392) Subsequence (Easy).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\obj\Debug\392) Subsequence (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\392) Subsequence (Easy)\392) Subsequence (Easy)\obj\Debug\392) Subsequence (Easy).pdb

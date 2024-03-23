@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\bin\Debug\28) Find the Index of First (Easy).exe.config
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\bin\Debug\28) Find the Index of First (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\bin\Debug\28) Find the Index of First (Easy).pdb
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\obj\Debug\28) Find the Index of First (Easy).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\obj\Debug\28) Find the Index of First (Easy).csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\obj\Debug\28) Find the Index of First (Easy).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\obj\Debug\28) Find the Index of First (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\28) Find the Index of First (Easy)\28) Find the Index of First (Easy)\obj\Debug\28) Find the Index of First (Easy).pdb

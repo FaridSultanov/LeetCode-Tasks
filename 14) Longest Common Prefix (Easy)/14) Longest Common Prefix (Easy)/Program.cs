@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace _14__Longest_Common_Prefix__Easy_
 {
@@ -11,23 +12,31 @@ namespace _14__Longest_Common_Prefix__Easy_
     {
         static void Main(string[] args)
         {
-
-
+            string[] array = { "Geek","Gee","Geekfor","GeeekkkfforrGreeks" };
+            Console.WriteLine(LongestCommonPrefix(array));
         }
 
 
         public static string LongestCommonPrefix(string[]strs)
         {
-            
-            int count = 0;
-            string value = strs[0];
-            for(int i=0;i<strs.Length;i++)
-            {
-               
-                
 
+            string value = strs[0];
+            int len = value.Length;
+            for(int i=1;i<strs.Length;i++)
+            {
+                while (strs[i].IndexOf(value)!=0)
+                {
+                    value = value.Substring(0, len - 1);
+                    len--;
+
+                    if(len==0)
+                    {
+                        return "";
+                    }
+                }
             }
-            return "";
+
+            return  value;
 
         }
     }

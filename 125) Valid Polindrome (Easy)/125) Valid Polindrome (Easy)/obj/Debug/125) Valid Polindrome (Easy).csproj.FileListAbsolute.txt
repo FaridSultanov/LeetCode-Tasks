@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\bin\Debug\125) Valid Polindrome (Easy).exe.config
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\bin\Debug\125) Valid Polindrome (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\bin\Debug\125) Valid Polindrome (Easy).pdb
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\obj\Debug\125) Valid Polindrome (Easy).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\obj\Debug\125) Valid Polindrome (Easy).csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\obj\Debug\125) Valid Polindrome (Easy).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\obj\Debug\125) Valid Polindrome (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\125) Valid Polindrome (Easy)\125) Valid Polindrome (Easy)\obj\Debug\125) Valid Polindrome (Easy).pdb

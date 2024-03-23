@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "791 ) Custom Sort String (Medium)", "791 ) Custom Sort String (Medium)\791 ) Custom Sort String (Medium).csproj", "{3560B866-7146-4A35-A004-22E0B6D319ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3560B866-7146-4A35-A004-22E0B6D319ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3560B866-7146-4A35-A004-22E0B6D319ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3560B866-7146-4A35-A004-22E0B6D319ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3560B866-7146-4A35-A004-22E0B6D319ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F356C2D-8916-456E-9F95-E50C1C3790C8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\bin\Debug\876 ) Middle of the LinkedList.exe.config
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\bin\Debug\876 ) Middle of the LinkedList.exe
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\bin\Debug\876 ) Middle of the LinkedList.pdb
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\obj\Debug\876 ) Middle of the LinkedList.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\obj\Debug\876 ) Middle of the LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\obj\Debug\876 ) Middle of the LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\obj\Debug\876 ) Middle of the LinkedList.exe
+C:\Users\LENOVO\Desktop\LeetCode\876 ) Middle of the LinkedList\876 ) Middle of the LinkedList\obj\Debug\876 ) Middle of the LinkedList.pdb

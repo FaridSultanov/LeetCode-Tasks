@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\bin\Debug\268) Missing Number (Easy).exe.config
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\bin\Debug\268) Missing Number (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\bin\Debug\268) Missing Number (Easy).pdb
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\obj\Debug\268) Missing Number (Easy).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\obj\Debug\268) Missing Number (Easy).csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\obj\Debug\268) Missing Number (Easy).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\obj\Debug\268) Missing Number (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\268) Missing Number (Easy)\268) Missing Number (Easy)\obj\Debug\268) Missing Number (Easy).pdb

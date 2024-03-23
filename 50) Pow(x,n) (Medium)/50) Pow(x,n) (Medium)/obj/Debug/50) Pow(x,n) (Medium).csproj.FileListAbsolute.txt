@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\bin\Debug\50) Pow(x,n) (Medium).exe.config
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\bin\Debug\50) Pow(x,n) (Medium).exe
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\bin\Debug\50) Pow(x,n) (Medium).pdb
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\obj\Debug\50) Pow(x,n) (Medium).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\obj\Debug\50) Pow(x,n) (Medium).csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\obj\Debug\50) Pow(x,n) (Medium).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\obj\Debug\50) Pow(x,n) (Medium).exe
+C:\Users\LENOVO\Desktop\LeetCode\50) Pow(x,n) (Medium)\50) Pow(x,n) (Medium)\obj\Debug\50) Pow(x,n) (Medium).pdb

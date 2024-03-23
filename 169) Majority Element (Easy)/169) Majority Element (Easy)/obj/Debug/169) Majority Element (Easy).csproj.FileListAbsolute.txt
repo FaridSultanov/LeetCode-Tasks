@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\bin\Debug\169) Majority Element (Easy).exe.config
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\bin\Debug\169) Majority Element (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\bin\Debug\169) Majority Element (Easy).pdb
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\obj\Debug\169) Majority Element (Easy).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\obj\Debug\169) Majority Element (Easy).csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\obj\Debug\169) Majority Element (Easy).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\obj\Debug\169) Majority Element (Easy).exe
+C:\Users\LENOVO\Desktop\LeetCode\169) Majority Element (Easy)\169) Majority Element (Easy)\obj\Debug\169) Majority Element (Easy).pdb

@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\bin\Debug\79) Word Search (Medium).exe.config
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\bin\Debug\79) Word Search (Medium).exe
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\bin\Debug\79) Word Search (Medium).pdb
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\obj\Debug\79) Word Search (Medium).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\obj\Debug\79) Word Search (Medium).csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\obj\Debug\79) Word Search (Medium).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\obj\Debug\79) Word Search (Medium).exe
+C:\Users\LENOVO\Desktop\LeetCode\79) Word Search (Medium)\79) Word Search (Medium)\obj\Debug\79) Word Search (Medium).pdb
